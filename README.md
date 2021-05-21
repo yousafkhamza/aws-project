@@ -65,7 +65,7 @@ stop|STOP)
 esac
 ```
 ## Script sample screenshot
-- _Screenshot 1_
+- _Sample Screenshot_
 ![alt text](https://i.ibb.co/PQj1cCB/sample.jpg)
 
 
