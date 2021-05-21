@@ -25,6 +25,7 @@ It is an application with PHP with a database. I just tell you the project basel
 
 # Architecture Image: 
 - _Architecture Image_
+
 ![alt text](https://i.ibb.co/WDQKSfz/Project-Architecture.jpg)
 
 # Script Explanation: 
@@ -69,5 +70,3 @@ esac
 
 ![alt text](https://i.ibb.co/PQj1cCB/sample.jpg)
 
-
-#### Stay_stary_home
