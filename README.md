@@ -66,6 +66,7 @@ esac
 ```
 ## Script sample screenshot
 - _Sample Screenshot_
+
 ![alt text](https://i.ibb.co/PQj1cCB/sample.jpg)
 
 
