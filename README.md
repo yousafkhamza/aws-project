@@ -24,6 +24,8 @@ It is an application with PHP with a database. I just tell you the project basel
 -Bash Script (Stop and Start with Sync script for RDS/Syncing)
 
 # Architecture Image: 
+- _Architecture Image_
+![alt text](https://i.ibb.co/WDQKSfz/Project-Architecture.jpg)
 
 # Script Explanation: 
 _The script is using for rds master to replica connection stop/start and also starting along with sync the master server to sync server that means the viewer EFS is already connected to the sync server so that datas and database is succesfully replcated through one script_
@@ -63,7 +65,8 @@ stop|STOP)
 esac
 ```
 ## Script sample screenshot
+- _Screenshot 1_
+![alt text](https://i.ibb.co/PQj1cCB/sample.jpg)
 
 
-
-####Stay_stary_home
+#### Stay_stary_home
