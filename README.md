@@ -65,8 +65,18 @@ stop|STOP)
 ;;
 esac
 ```
-## Script sample screenshot
-- _Sample Screenshot_
 
-![alt text](https://i.ibb.co/PQj1cCB/sample.jpg)
+----
+## Conclusion
+
+Here it's a AWS based project and its using almost of the AWS services.
+
+#### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.instagram.com/yousafkhamza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/%2B917736720639?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 
