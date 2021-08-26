@@ -69,7 +69,7 @@ esac
 ----
 ## Conclusion
 
-Here it's a AWS based project and its using almost of the AWS services.
+Here it's a AWS based project and its using almost of the AWS common services.
 
 #### ⚙️ Connect with Me
 
